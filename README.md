@@ -1,7 +1,7 @@
 # Battle Royale Simulation
 This is a simple real-time battle royale style system using UDP packets and sockets
 
-## File Descriptions
+## Java File Descriptions
 GameState.java: This class is responsible for holding the state of the game including players and their loot boxes
 
 Player.java: This class is responsible for holding a single players state within a game including their IDs, health, 
@@ -17,9 +17,10 @@ from the client and sending it off the server without any modification.
 
 Server.java: This class is responsible for responding to the clients requests and responding accordingly with a messages.
 
-## Diagrams 
+## Diagram Descriptions
+BattleRoyale_classDiagram.jpg: The UML class diagram showing the relationships between all the classes.
 
-
+BattleRoyale_sequence.jpg: The sequence diagram showing the interaction between all the classes during the command PICKUP.
 
 
 ## Set Up Instructions
