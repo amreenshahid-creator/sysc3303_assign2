@@ -20,7 +20,8 @@ Server.java: This class is responsible for responding to the clients requests an
 ## Diagram Descriptions
 BattleRoyale_classDiagram.jpg: The UML class diagram showing the relationships between all the classes.
 
-BattleRoyale_sequence.jpg: The sequence diagram showing the interaction between all the classes during the command PICKUP.
+BattleRoyale_sequence.jpg: The sequence diagram showing the interaction between all the classes during a
+successful PICKUP command.
 
 
 ## Set Up Instructions
